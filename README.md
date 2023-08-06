@@ -1,9 +1,24 @@
-## nós somos a organização GoSeventh
-a que criou o servidor samp debaixo dos panos. Somos pertencentes a várias outras aplicações, incluido nossa rede blockchain Saffira que também é utilziada pelos nossos servidores SA-MP. Aqui está algum resumo sobre nós que é mantido anualmente. 
+<p align="center">
+<img width="250px" src="goseventh.png"/>
+</br>
+</br>
+<span>
+Nós somos <b>poderosos</b>, empoderando <b>você</b>! Tornamos o impossível, em <b>GoSeventh</b>.
+</span>
+</p>
 
-## Nós somos: 
+</br>
 
-- Criadores do mais moderno servidor SA-MP
-- Criadores da criptomoeda Saffira
-- Criadores do maior anti-cheat para SA-MP baseado em machine learning
-- Criadores do melhor sistemas de mensageria bate-papo com alta segurança
+## :bulb: Sobre
+Nós somos o <b>poder em suas mãos</b>, nada a mais. 
+- [RakStar](https://github.com/goseventh/rakstar)
+
+## :construction: Atenção
+
+É sério que caiu nessa? <b>Você precisa de ajuda!</b> Talvez queira <b>olhar nossos repositórios</b> para adquerir <b>mais inteligência</b>.
+
+## :clap: Créditos
+
+Criado por deuses, especialmente para empoderar você.  
+[@alph4b3th](https://github.com/alph4b3th)
+[@Real-DavidWilson](https://github.com/Real-DavidWilson)
